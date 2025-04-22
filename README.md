@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Rahulraj35/Rahulraj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<<!--
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on .mern stack..
+- 🌱 I’m currently developing AI solution..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+  <h1 align="center">📱Connect with me:</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/_rahul_raj23?igsh=b3U0dzE2MTZzcXFs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+  
+   
+  <a href="https://www.linkedin.com/in/rahul-raj-9901a0329" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+ <a href="rrahul97050@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+</div>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
